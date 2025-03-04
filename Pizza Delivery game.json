@@ -560,6 +560,20 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Explosions/c67e738f5969ca4f36afa86ad71943d5e0b45eed014017977749f4fb47ba3d53_Explosion 10.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Cursed Intro.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
