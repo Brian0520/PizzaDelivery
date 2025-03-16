@@ -1,7 +1,7 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Start screen",
   "gdVersion": {
-    "build": 224,
+    "build": 226,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -11,19 +11,19 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": true,
-    "orientation": "landscape",
+    "orientation": "default",
     "packageName": "com.example.gamename",
     "pixelsRounding": false,
     "projectUuid": "15524175-97a5-466f-b0ba-0ec5e2dfe018",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "version": "1.0.0",
     "name": "Pizza Delivery game",
     "description": "",
     "author": "",
-    "windowWidth": 1280,
-    "windowHeight": 720,
+    "windowWidth": 2000,
+    "windowHeight": 1000,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -90,7 +90,567 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
+<<<<<<< Updated upstream
     "resources": [],
+=======
+    "resources": [
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite2.png\"}",
+        "name": "NewTiledSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite4.png\"}",
+        "name": "NewTiledSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Sky Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Sky Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Background/1532fe7a8e6c84b7b2547f1b3e9c3430546bd0adc86262971d99897b8ebef730_tiled_Sky Background.png",
+          "name": "tiled_Sky Background.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Background.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Background/e10d4d02f445ddc7daf068b27546f89a8fe1f2ecb3e5c8ce21a73c8dbc8234b7_tiled_Background.png",
+          "name": "tiled_Background.png"
+        }
+      },
+      {
+        "file": "assets/Car Red_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Car Red_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/dde040d626901a9045983d0fee241d005558b8a035b770535cc63f117a992a8a_Car Red_Moving_1.png",
+          "name": "Car Red_Moving_1.png"
+        }
+      },
+      {
+        "file": "assets/Car Red_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Car Red_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/2bf072f6cc92ca6af667b54e0150fe50e40f0899adbd2019807e2b426155e96b_Car Red_Moving_2.png",
+          "name": "Car Red_Moving_2.png"
+        }
+      },
+      {
+        "file": "assets/Car Red_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Car Red_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/b11c5bbfaf506293a67933934f0180e83faa146b422dfb8b63e98e556050e546_Car Red_Moving_3.png",
+          "name": "Car Red_Moving_3.png"
+        }
+      },
+      {
+        "file": "assets/Car Red_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Car Red_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/8019b7129d449898c326ea0e3f600f5ffcbd68fa24fd0d83ae0b41e9a694ea5e_Car Red_Moving_4.png",
+          "name": "Car Red_Moving_4.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Starry Background Solid Colour.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Solid Colour.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/0c1c754c8dbb456e059f31544e5cb51ee3de171b0a70c482d1d144c3e1bc2156_tiled_Starry Background Solid Colour.png",
+          "name": "tiled_Starry Background Solid Colour.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Starry Background Stars 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Stars 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/efeabe9f9819c525c79fc9df113c3d619df6b02c094b42c54691755fac8cb661_tiled_Starry Background Stars 1.png",
+          "name": "tiled_Starry Background Stars 1.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Starry Background Stars 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Stars 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/1dd0ee3b6ee4b0545ef9b3723a60ee4a10bb29bfd0fdd4845c460ba69bec4ce0_tiled_Starry Background Stars 2.png",
+          "name": "tiled_Starry Background Stars 2.png"
+        }
+      },
+      {
+        "file": "assets/Explosion.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Explosion.png\"}",
+        "name": "Explosion",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/explosion_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "explosion_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Effects/1983e43269e3bc0f6066cdaeadc48bcf323019a5bb81e11f6c19d76c3b014ad3_explosion_1.png",
+          "name": "explosion_1.png"
+        }
+      },
+      {
+        "file": "assets/explosion_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "explosion_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Effects/ea41ef1dfd0fb7ada13251ef6793bbb3a12d268121ec9f62957f46c77e643587_explosion_2.png",
+          "name": "explosion_2.png"
+        }
+      },
+      {
+        "file": "assets/explosion_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "explosion_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Effects/22f5bf86ed7f21b255b8a6207a104afaba5db0c4177e29f686cddb25e344f254_explosion_3.png",
+          "name": "explosion_3.png"
+        }
+      },
+      {
+        "file": "assets/Explosion2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosion2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosion3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosion4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosion5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explosion6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Semi Truck_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Semi Truck_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/bd67b0e2d65a398a5d003b9f28fe787a4cc06671bce34e047268860d833b6be2_Semi Truck_Moving_1.png",
+          "name": "Semi Truck_Moving_1.png"
+        }
+      },
+      {
+        "file": "assets/Semi Truck_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Semi Truck_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/1e7cb13fbae12b128f286a684cc9af37ecf2034359de8ccfc0e135160be9a291_Semi Truck_Moving_2.png",
+          "name": "Semi Truck_Moving_2.png"
+        }
+      },
+      {
+        "file": "assets/Semi Truck_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Semi Truck_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/c7532841f2c4c4024c049a6c74c5b47d96ed3785ae7efc06a1dcf926e84faa74_Semi Truck_Moving_3.png",
+          "name": "Semi Truck_Moving_3.png"
+        }
+      },
+      {
+        "file": "assets/Semi Truck_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Semi Truck_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/dd4cd4975824e5b8ee978a2622301e6fa6ffc66e5e742814730c1b8380a1f874_Semi Truck_Moving_4.png",
+          "name": "Semi Truck_Moving_4.png"
+        }
+      },
+      {
+        "file": "assets/Fuel Semi Truck_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fuel Semi Truck_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/eebc81b7966d06b4e4fd12d5d5b19724e4e7954cd705c1d4fc9688171d7e16d6_Fuel Semi Truck_Moving_1.png",
+          "name": "Fuel Semi Truck_Moving_1.png"
+        }
+      },
+      {
+        "file": "assets/Fuel Semi Truck_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fuel Semi Truck_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/9fd17675db8a466320bfd61e519565aed0d4c987462c803e85182cf46f6b90fe_Fuel Semi Truck_Moving_2.png",
+          "name": "Fuel Semi Truck_Moving_2.png"
+        }
+      },
+      {
+        "file": "assets/Fuel Semi Truck_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fuel Semi Truck_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/6c5fc70a40d7cb846305d767440ce317e98bd19cf79324684f1e93a46769d433_Fuel Semi Truck_Moving_3.png",
+          "name": "Fuel Semi Truck_Moving_3.png"
+        }
+      },
+      {
+        "file": "assets/Fuel Semi Truck_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fuel Semi Truck_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/9bbd87e4da9e10b869eb2f0aaa4484ab4be1b20244fef9e002cbf13001a3acc9_Fuel Semi Truck_Moving_4.png",
+          "name": "Fuel Semi Truck_Moving_4.png"
+        }
+      },
+      {
+        "file": "assets/Convertible Purple_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Convertible Purple_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/4285a804ef325709dc2282be83b3f90a0c367d97481678d9f21fcdb97bbd5096_Convertible Purple_Moving_1.png",
+          "name": "Convertible Purple_Moving_1.png"
+        }
+      },
+      {
+        "file": "assets/Convertible Purple_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Convertible Purple_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/58d7f34cf7054a232daf02492f3877948f78c8684e9b4b9bb9a389bcd53eee10_Convertible Purple_Moving_2.png",
+          "name": "Convertible Purple_Moving_2.png"
+        }
+      },
+      {
+        "file": "assets/Convertible Purple_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Convertible Purple_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/bf9f808a028b247119dc061e690167a888a0df61f0794bd6dfa029db04402b47_Convertible Purple_Moving_3.png",
+          "name": "Convertible Purple_Moving_3.png"
+        }
+      },
+      {
+        "file": "assets/Convertible Purple_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Convertible Purple_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/35f421d991b0485d350658a70e7be9354e9196f407d3e0e5b4ccde5d96f8e6f2_Convertible Purple_Moving_4.png",
+          "name": "Convertible Purple_Moving_4.png"
+        }
+      },
+      {
+        "file": "assets/SUV Tan_Moving_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SUV Tan_Moving_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/df4c53e6c630bfdce0127d3f30160d828632b94163ad97deca47b5d17229b0a3_SUV Tan_Moving_1.png",
+          "name": "SUV Tan_Moving_1.png"
+        }
+      },
+      {
+        "file": "assets/SUV Tan_Moving_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SUV Tan_Moving_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/480d7dd961439cf150c2850aac9b097a4d2385dddc35d35da84ad3cd8a7bb048_SUV Tan_Moving_2.png",
+          "name": "SUV Tan_Moving_2.png"
+        }
+      },
+      {
+        "file": "assets/SUV Tan_Moving_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SUV Tan_Moving_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/0fe4e7104b9fc245dd0b5053de27f67bddbc198863029f5afed99413c4fdadc6_SUV Tan_Moving_3.png",
+          "name": "SUV Tan_Moving_3.png"
+        }
+      },
+      {
+        "file": "assets/SUV Tan_Moving_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SUV Tan_Moving_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Pixel Cars/f8fb5b4736e91ed86f3ad959fe82d17aa6ccd8bf33ba76fe374e3dba3de06c07_SUV Tan_Moving_4.png",
+          "name": "SUV Tan_Moving_4.png"
+        }
+      },
+      {
+        "file": "assets/Death.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Death2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Death3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Explosion 10.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c67e738f5969ca4f36afa86ad71943d5e0b45eed014017977749f4fb47ba3d53_Explosion 10.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Explosions/c67e738f5969ca4f36afa86ad71943d5e0b45eed014017977749f4fb47ba3d53_Explosion 10.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Cursed Intro.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "city background.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "city background.webp",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Screenshot 2025-03-16 at 1.40.02 AM.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot 2025-03-16 at 1.40.02 AM.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Start Screen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Start Screen.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/On Screen Controls Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/16e804dda11f82902d6b7469420d7b3b81d68ef00af71783070dd284114e8cdc_On Screen Controls Button_Hovered.png",
+          "name": "On Screen Controls Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/On Screen Controls Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/174644b98156cc55e10a4eb991aebb06e0a2c9f98915abb1422cababc3124de3_On Screen Controls Button_Idle.png",
+          "name": "On Screen Controls Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/On Screen Controls Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5a44f1cb97ef7da59c97179346b71d3f5b913af0208795784707c062fc20749f_On Screen Controls Button_Pressed.png",
+          "name": "On Screen Controls Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
+      }
+    ],
+>>>>>>> Stashed changes
     "resourceFolders": []
   },
   "objects": [],
@@ -102,10 +662,31 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/gameplay"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/start-screen"
     }
   ],
   "externalEvents": [],
+<<<<<<< Updated upstream
   "eventsFunctionsExtensions": [],
+=======
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/isonscreen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
+>>>>>>> Stashed changes
   "externalLayouts": []
 }
