@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Start_32screen",
-  "name": "Start screen",
+  "mangledName": "Losing_32Screen",
+  "name": "Losing Screen",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -28,67 +28,34 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 996,
+      "height": 1002,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite",
-      "persistentUuid": "4098bc5a-2344-4777-bf4e-d8817e079e10",
+      "name": "NewSprite2",
+      "persistentUuid": "6e42ca38-8888-48ee-ade3-ef34c7b2779b",
       "width": 1996,
-      "x": 4,
-      "y": 5,
+      "x": 5,
+      "y": 1,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-<<<<<<< Updated upstream
-      "angle": 354,
-      "customSize": true,
-      "depth": 77,
-      "height": 102,
-      "keepRatio": true,
-      "layer": "",
-      "name": "OnScreenControlsButton",
-      "persistentUuid": "03294a34-d14d-4c9d-bec6-432558f14748",
-      "width": 307,
-      "x": 1376,
-      "y": 765,
-=======
-      "angle": 350,
+      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "StartButton",
-      "persistentUuid": "0e03c189-4409-493e-b7d7-9e4e0611c81b",
+      "name": "AgainButton",
+      "persistentUuid": "d432905f-0df0-49ca-a678-c7bb1d813fa4",
       "width": 0,
-      "x": 1345,
-      "y": 740,
->>>>>>> Stashed changes
+      "x": 931,
+      "y": 876,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
-<<<<<<< Updated upstream
-=======
-    },
-    {
-      "angle": 350,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "CreditsButton",
-      "persistentUuid": "329596a6-fae8-4bb6-ad1f-b53c41346bf4",
-      "width": 0,
-      "x": 1365,
-      "y": 845,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
->>>>>>> Stashed changes
     }
   ],
   "objects": [
@@ -112,7 +79,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Start Screen.png",
+                  "image": "Credits (1).png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -153,157 +120,68 @@
       ]
     },
     {
-<<<<<<< Updated upstream
-      "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
-      "name": "OnScreenControlsButton",
-=======
-      "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-      "name": "StartButton",
->>>>>>> Stashed changes
-      "type": "PanelSpriteButton::PanelSpriteButton",
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {
-<<<<<<< Updated upstream
-        "LeftPadding": 0,
-        "RightPadding": 0,
-        "PressedLabelOffsetY": 1,
-        "BottomPadding": 0,
-        "TopPadding": 0,
-        "HoveredFadeOutDuration": 0.2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 6,
-          "height": 64,
-          "leftMargin": 6,
-          "rightMargin": 6,
-          "texture": "On Screen Controls Button_Hovered.png",
-          "tiled": false,
-          "topMargin": 6,
-          "width": 192
-        },
-        "Idle": {
-          "bottomMargin": 6,
-          "height": 64,
-          "leftMargin": 6,
-          "rightMargin": 6,
-          "texture": "On Screen Controls Button_Idle.png",
-          "tiled": false,
-          "topMargin": 6,
-          "width": 192
-=======
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "HoveredFadeOutDuration": 0.25
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Hovered.png",
-          "tiled": false,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Idle.png",
-          "tiled": false,
-          "topMargin": 16,
-          "width": 256
->>>>>>> Stashed changes
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-<<<<<<< Updated upstream
-          "string": "STARTTTT",
-          "font": "Roboto-Bold.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-=======
-          "string": "START",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 50,
-          "color": {
-            "b": 79,
-            "g": 72,
-            "r": 72
->>>>>>> Stashed changes
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-<<<<<<< Updated upstream
-            "text": "STARTTTT",
-            "font": "Roboto-Bold.ttf",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 40,
-            "color": "255;255;255"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 6,
-          "height": 64,
-          "leftMargin": 6,
-          "rightMargin": 6,
-          "texture": "On Screen Controls Button_Pressed.png",
-          "tiled": false,
-          "topMargin": 6,
-          "width": 192
-=======
-            "text": "START",
-            "font": "",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 50,
-            "color": "72;72;79"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Pressed.png",
-          "tiled": false,
-          "topMargin": 32,
-          "width": 256
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Credits (2).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
-      }
+      ]
     },
     {
       "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-      "name": "CreditsButton",
+      "name": "AgainButton",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -342,10 +220,10 @@
           "italic": false,
           "smoothed": true,
           "underlined": false,
-          "string": "CREDITS",
+          "string": "Again",
           "font": "",
           "textAlignment": "center",
-          "characterSize": 50,
+          "characterSize": 60,
           "color": {
             "b": 79,
             "g": 72,
@@ -365,11 +243,11 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "CREDITS",
+            "text": "Again",
             "font": "",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 50,
+            "characterSize": 60,
             "color": "72;72;79"
           }
         },
@@ -382,7 +260,6 @@
           "tiled": false,
           "topMargin": 32,
           "width": 256
->>>>>>> Stashed changes
         }
       }
     }
@@ -394,17 +271,10 @@
         "objectName": "NewSprite"
       },
       {
-<<<<<<< Updated upstream
-        "objectName": "OnScreenControlsButton"
-      }
-    ]
-  },
-  "events": [],
-=======
-        "objectName": "StartButton"
+        "objectName": "NewSprite2"
       },
       {
-        "objectName": "CreditsButton"
+        "objectName": "AgainButton"
       }
     ]
   },
@@ -417,7 +287,7 @@
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
-            "StartButton",
+            "AgainButton",
             ""
           ]
         }
@@ -429,40 +299,13 @@
           },
           "parameters": [
             "",
-            "\"Gameplay\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-          },
-          "parameters": [
-            "CreditsButton",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Credits\"",
+            "\"Start screen\"",
             ""
           ]
         }
       ]
     }
   ],
->>>>>>> Stashed changes
   "layers": [
     {
       "ambientLightColorB": 200,

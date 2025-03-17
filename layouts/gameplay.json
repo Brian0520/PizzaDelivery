@@ -1,11 +1,14 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
   "mangledName": "Untitled_32scene",
   "name": "Untitled scene",
   "r": 209,
 =======
+=======
+>>>>>>> Stashed changes
   "mangledName": "Gameplay",
   "name": "Gameplay",
   "r": 155,
@@ -24,6 +27,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
     "zoomFactor": 0.546875,
     "windowMask": false
@@ -38,6 +42,9 @@
   "events": [],
 =======
     "zoomFactor": 0.5117784035210194,
+=======
+    "zoomFactor": 0.37971210019479473,
+>>>>>>> Stashed changes
     "windowMask": false
   },
   "objectsGroups": [
@@ -56,7 +63,13 @@
       ]
     }
   ],
-  "variables": [],
+  "variables": [
+    {
+      "name": "TimePassed",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -459,8 +472,13 @@
       "name": "CarRed",
       "persistentUuid": "a4d00aff-da31-4dfa-8c90-f5ab51af4e16",
       "width": 75,
+<<<<<<< Updated upstream
       "x": 545,
       "y": 588,
+=======
+      "x": 386,
+      "y": 589,
+>>>>>>> Stashed changes
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -544,12 +562,99 @@
       "name": "Backdrop",
       "persistentUuid": "1c03a97b-2e97-4869-a11a-e370cdd8880c",
       "width": 2441,
+<<<<<<< Updated upstream
       "x": -40,
+=======
+      "x": -51,
+>>>>>>> Stashed changes
       "y": -848,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Speed",
+      "persistentUuid": "acc3a84a-c462-45a4-aabd-7c5d2f647b47",
+      "width": 0,
+      "x": 664,
+      "y": 56,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Distance",
+      "persistentUuid": "41e29c9d-217d-4cfe-8633-a18f80e83de8",
+      "width": 0,
+      "x": 664,
+      "y": 87,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Timer",
+      "persistentUuid": "deae3bcf-d62b-4955-b7fa-f702c17f1134",
+      "width": 0,
+      "x": 662,
+      "y": 116,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goal",
+      "persistentUuid": "2dba815f-eca8-4344-9793-4e9c42568936",
+      "width": 0,
+      "x": 18,
+      "y": 20,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Controls",
+      "persistentUuid": "25e671c1-0072-465c-83b5-430e4db66ef4",
+      "width": 0,
+      "x": 21,
+      "y": 58,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+>>>>>>> Stashed changes
     }
   ],
   "objects": [
@@ -2042,6 +2147,225 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Speed",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Speed: 0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Speed: 0",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Distance",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Distance: 20,000",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Distance: 20,000",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Timer",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "name": "TimeElapsed",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "string": "Time: ",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Time: ",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "Goal",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Reach 20,000 distance before the time reaches 60 seconds !!!",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 19,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Reach 20,000 distance before the time reaches 60 seconds !!!",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 19,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Controls",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "W to go up\nS to go down\nA to slow down \nD to speed up",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "W to go up\nS to go down\nA to slow down \nD to speed up",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
+>>>>>>> Stashed changes
     }
   ],
   "objectsFolderStructure": {
@@ -2084,6 +2408,24 @@
       },
       {
         "objectName": "Backdrop"
+<<<<<<< Updated upstream
+=======
+      },
+      {
+        "objectName": "Speed"
+      },
+      {
+        "objectName": "Timer"
+      },
+      {
+        "objectName": "Distance"
+      },
+      {
+        "objectName": "Goal"
+      },
+      {
+        "objectName": "Controls"
+>>>>>>> Stashed changes
       }
     ]
   },
@@ -2122,7 +2464,7 @@
           },
           "parameters": [
             "",
-            "754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac"
+            "2f96dd46207ff9cde01f8ad03176eefa12ed06d00624faff700e6ae49e80c018_49 - the story so far.aac"
           ]
         },
         {
@@ -2131,10 +2473,19 @@
           },
           "parameters": [
             "",
-            "754dee64b300ffa73c8557f5ded68a818feb972cb141cef0048f512861561788_Cursed Intro.aac",
+            "2f96dd46207ff9cde01f8ad03176eefa12ed06d00624faff700e6ae49e80c018_49 - the story so far.aac",
             "yes",
-            "100",
+            "",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ResetObjectTimer"
+          },
+          "parameters": [
+            "Timer",
+            "\"TimePassed\""
           ]
         }
       ]
@@ -2212,6 +2563,16 @@
                 "=",
                 "\"Moving\""
               ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "DistanceLeft",
+                "=",
+                "DistanceLeft - round(CarRed.X()/1000000)"
+              ]
             }
           ]
         },
@@ -2260,7 +2621,7 @@
                 "\"Moving\"",
                 "CarRed.Y()-135",
                 "\"easeInOutQuad\"",
-                "0.3",
+                "0.2",
                 ""
               ]
             }
@@ -2311,7 +2672,91 @@
                 "\"Moving\"",
                 "CarRed.Y()+135",
                 "\"easeInOutQuad\"",
-                "0.3",
+                "0.2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"d\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "CarRed",
+                "Tween",
+                "\"Moving\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectVariableTween3"
+              },
+              "parameters": [
+                "CarRed",
+                "Tween",
+                "\"Speed\"",
+                "CarSpeed",
+                "CarRed.Tween::Value(\"Speed\") + 1000",
+                "\"linear\"",
+                "5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "CarRed",
+                "Tween",
+                "\"Moving\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectVariableTween3"
+              },
+              "parameters": [
+                "CarRed",
+                "Tween",
+                "\"Speed\"",
+                "CarSpeed",
+                "CarRed.Tween::Value(\"Speed\") - 1000",
+                "\"linear\"",
+                "5",
                 ""
               ]
             }
@@ -2394,6 +2839,59 @@
             "=",
             "CarRed.X()*2"
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "Speed",
+            "=",
+            "CarRed.X()-(CarRed.Width())*2+1500"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "Distance",
+            "=",
+            "CarRed.X()-(CarRed.Width())*2+1500"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "Timer",
+            "=",
+            "CarRed.X()-(CarRed.Width())*2+1500"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "Goal",
+            "=",
+            "CarRed.X()-(CarRed.Width())*2+120"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreX"
+          },
+          "parameters": [
+            "Controls",
+            "=",
+            "CarRed.X()-(CarRed.Width())*2+120"
+          ]
+>>>>>>> Stashed changes
         }
       ]
     },
@@ -2784,6 +3282,151 @@
           "parameters": [
             "",
             "\"Gameplay\"",
+<<<<<<< Updated upstream
+=======
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Display Text"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Speed",
+            "Text",
+            "=",
+            "\"Speed: \" + ToString(round(CarRed.Variable(CarSpeed)))"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Distance",
+            "Text",
+            "=",
+            "\"Distance: \" + ToString(round(CarRed.X()))"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareObjectTimer"
+          },
+          "parameters": [
+            "Timer",
+            "\"TimePassed\"",
+            ">=",
+            "1"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ResetObjectTimer"
+          },
+          "parameters": [
+            "Timer",
+            "\"TimePassed\""
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Timer",
+            "Text",
+            "=",
+            "\"Time: \" + TimeElapsed"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberVariable"
+          },
+          "parameters": [
+            "TimeElapsed",
+            "+",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "NumberVariable"
+          },
+          "parameters": [
+            "TimeElapsed",
+            ">=",
+            "60"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Losing Screen\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "CarRed",
+            ">=",
+            "50000"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Pizza Scene\"",
+>>>>>>> Stashed changes
             ""
           ]
         }
@@ -2835,7 +3478,82 @@
           "booleanParameters": {}
         }
       ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "defaultCameraBehavior": "do-nothing",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
+<<<<<<< Updated upstream
   "behaviorsSharedData": []
+=======
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
+    }
+  ]
+>>>>>>> Stashed changes
 }
