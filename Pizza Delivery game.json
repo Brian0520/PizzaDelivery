@@ -648,6 +648,1507 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
           "name": "Roboto-Regular.ttf"
         }
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      },
+      {
+        "file": "../../../Downloads/city background.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/city background.webp",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Grey Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
+          "name": "Grey Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Grey Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
+          "name": "Grey Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Grey Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
+          "name": "Grey Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/floor brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor brown.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/c1f7c4554175724ed25c21af3e4e46edf97da56d0fce4533224c8a26d942853d_floor brown.png",
+          "name": "floor brown.png"
+        }
+      },
+      {
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Wood Background_all_64.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "name": "9patch_Wood Background_all_64.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+          "name": "Door_Closing_1.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+          "name": "Door_Closing_2.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+          "name": "Door_Closing_3.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_4.png",
+          "name": "Door_Closing_4.png"
+        }
+      },
+      {
+        "file": "assets/Door_Closing_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_5.png",
+          "name": "Door_Closing_5.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+          "name": "Door_Opening_1.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+          "name": "Door_Opening_2.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_3.png",
+          "name": "Door_Opening_3.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+          "name": "Door_Opening_4.png"
+        }
+      },
+      {
+        "file": "assets/Door_Opening_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_5.png",
+          "name": "Door_Opening_5.png"
+        }
+      },
+      {
+        "file": "assets/Pizza.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Food/ba3c5ceb0afdf4ca5c9b3494c34b24b97c540b09196418274ed78ea2fdf08748_Pizza.png",
+          "name": "Pizza.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Carry_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Carry_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3b077a669049d33c8ce23c65063def57d567e59c0a5900f6a9bc8d478c94be85_Ranger_Carry_1.png",
+          "name": "Ranger_Carry_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Carry_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Carry_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/054ce1870130f55c03e5bc08452e956799bdff15a4d39dfacedb56e5166e5b30_Ranger_Carry_2.png",
+          "name": "Ranger_Carry_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Carry_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Carry_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/8bc8e0068b5dd4a006d3b292bcf5367cd0dfcc98639bb08be5f596fdd51a026d_Ranger_Carry_3.png",
+          "name": "Ranger_Carry_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Carry_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Carry_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/054ce1870130f55c03e5bc08452e956799bdff15a4d39dfacedb56e5166e5b30_Ranger_Carry_4.png",
+          "name": "Ranger_Carry_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Climb_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Climb_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/28013947881bf21ccc2e78d6d6b5593670c9a72a6d0c633dcdc6c182c19915dc_Ranger_Climb_1.png",
+          "name": "Ranger_Climb_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Climb_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Climb_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/22c641e3bac1a3758ae0e6dd12a2d18802909f3d7e9d62e7f572841da989598c_Ranger_Climb_2.png",
+          "name": "Ranger_Climb_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Climb_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Climb_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/28013947881bf21ccc2e78d6d6b5593670c9a72a6d0c633dcdc6c182c19915dc_Ranger_Climb_3.png",
+          "name": "Ranger_Climb_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Climb_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Climb_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/86eeea56400a30f7e2f9dd2d7e8f36c5f8de548ce45c2e7d64e507a6df4e98e3_Ranger_Climb_4.png",
+          "name": "Ranger_Climb_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Daze_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Daze_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/922fe2f8a3d8e91e3d1bb10c2fab6c2491bc1f1cf92365ed48099c9e60aca0d3_Ranger_Daze_1.png",
+          "name": "Ranger_Daze_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Daze_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Daze_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/242c5582f3f2b8e06817f04c51ad58d92b1cb7c7fc48b79e311655b85d77e92d_Ranger_Daze_2.png",
+          "name": "Ranger_Daze_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Daze_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Daze_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/922fe2f8a3d8e91e3d1bb10c2fab6c2491bc1f1cf92365ed48099c9e60aca0d3_Ranger_Daze_3.png",
+          "name": "Ranger_Daze_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Daze_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Daze_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/2128d9c154a9d1a32970d80afc4f871bff4043e0f5bd292602a7bad2c11f7600_Ranger_Daze_4.png",
+          "name": "Ranger_Daze_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Dead.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/6cc803d396714c448cbbbf3518d2870cc394972315ebaf21b095489a03003dfa_Ranger_Dead.png",
+          "name": "Ranger_Dead.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Get Up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Get Up.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/357ac778867e49d9b45be7f016f4f1b3d0c3ffec1259719b49456aac9f4757b1_Ranger_Get Up.png",
+          "name": "Ranger_Get Up.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Headbutt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Headbutt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/e38572d1045572fbbe95d63a9e27d2bd7a173000755de82e062d6df75ee9666a_Ranger_Headbutt_1.png",
+          "name": "Ranger_Headbutt_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Headbutt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Headbutt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/e73a435418dde2d25dd5a4c82ed3461d07fc94c71f4d8f0b2b7aacd01cea3bbf_Ranger_Headbutt_2.png",
+          "name": "Ranger_Headbutt_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/611849226b045b9718c5b7fa2136c5ca609e85be5db9d1935cb4aec26f113ccd_Ranger_Hurt.png",
+          "name": "Ranger_Hurt.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/626c7c40a891e1937060e1f67eeef95ebddff810a5d54838945eeae36e305837_Ranger_Idle 1_1.png",
+          "name": "Ranger_Idle 1_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/b7b692ac5645eb15dfebf0c16c84a649ffa261b21b25ce2f4b8b721411f029f3_Ranger_Idle 1_2.png",
+          "name": "Ranger_Idle 1_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/0d3e116edbbd7dce547f61d99b9371b21df602e8f2bb69580e5e24a940916c7b_Ranger_Idle 1_3.png",
+          "name": "Ranger_Idle 1_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/a16133279fd2a6ece8b80b1b2e7657f573a538205b8b5e9c59dde75cc66521eb_Ranger_Idle 1_4.png",
+          "name": "Ranger_Idle 1_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/88f938dff6d169233fbf463b3cadf781ccf6547428a4a3b42b8a4ba879211aa9_Ranger_Idle 2_1.png",
+          "name": "Ranger_Idle 2_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/9dac246f0eb31bba64a3439364a0e9bbf336fe959321bf368eb6e61195423441_Ranger_Idle 2_2.png",
+          "name": "Ranger_Idle 2_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/cbee2147f875e7d7840ee2b1823d5721d717cf3f924da4e9e217ead76e50cb47_Ranger_Idle 2_3.png",
+          "name": "Ranger_Idle 2_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Idle 2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Idle 2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/1413b077d518c739acad41dc752f9991b121d57744879b73565657de3d56b54d_Ranger_Idle 2_4.png",
+          "name": "Ranger_Idle 2_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Jump Kick_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Jump Kick_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/c34620d131bdd344f1bf4e7acbe5e16adef5f660c89d2afcff7108deef69c166_Ranger_Jump Kick_1.png",
+          "name": "Ranger_Jump Kick_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Jump Kick_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Jump Kick_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/8de9bd67481c25aaeeab1ad4ba3d66654113f5f02200ffc1e2fb2bbb26094656_Ranger_Jump Kick_2.png",
+          "name": "Ranger_Jump Kick_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Jump Kick_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Jump Kick_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/14b4ac8816538c5973ed6afdca9e496910bc9a9e54ea888c8cb266bb2019b3d7_Ranger_Jump Kick_3.png",
+          "name": "Ranger_Jump Kick_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Jump Kick_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Jump Kick_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/c34620d131bdd344f1bf4e7acbe5e16adef5f660c89d2afcff7108deef69c166_Ranger_Jump Kick_4.png",
+          "name": "Ranger_Jump Kick_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Kick 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Kick 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/042fda5e0d7a88bdc49359aa54d99415c0aae9d9d7dcc2365a14bbe925ff3ab4_Ranger_Kick 1.png",
+          "name": "Ranger_Kick 1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Kick 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Kick 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/4c3b380d19defc12f06eab6883ff4047879b94ceca41ddf0478db2a20bd84b27_Ranger_Kick 2.png",
+          "name": "Ranger_Kick 2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Knockdown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Knockdown.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/c94c05f749cb74dfafe679a9243fa8a49df5092d837114e5599fac660b7e5420_Ranger_Knockdown.png",
+          "name": "Ranger_Knockdown.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Over Throw_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Over Throw_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/2e22777e024792456341ba2733b6bbfddc6ee183886523ff9bb6cb6a405b9939_Ranger_Over Throw_1.png",
+          "name": "Ranger_Over Throw_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Over Throw_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Over Throw_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3f4ff73f0c17d4376d5a1589bc4b4aa6c1f4aa26ea89eac1b3874f447476c2f2_Ranger_Over Throw_2.png",
+          "name": "Ranger_Over Throw_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Pick Up 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Pick Up 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/9aa81a0514d72b255ac80c633190cf5fe228e7fd07be439ad8f30d0ebd3dcf7e_Ranger_Pick Up 2.png",
+          "name": "Ranger_Pick Up 2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Pick Up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Pick Up.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/92b45d52917ca3b62fb3af3451620a32fcf331eff441caa544d2c8f95d76b547_Ranger_Pick Up.png",
+          "name": "Ranger_Pick Up.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Punch 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Punch 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/bbe61b4f88b7e08b42619c4992f77aa7b01a507ead7f7e9b2903a469df29516f_Ranger_Punch 1.png",
+          "name": "Ranger_Punch 1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Punch 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Punch 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3d6629c6f896718149515eb9cc8b790ca687630e39652e7093cac489821150d2_Ranger_Punch 2.png",
+          "name": "Ranger_Punch 2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/9dd9ca3d8bb7f26ed579835ffafb5a8ba25656f98838754cc21f3bc5e77b158d_Ranger_Run_1.png",
+          "name": "Ranger_Run_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3f2ab6f9ce4b463c508945e9c8c0f4136c6f4b394483102f02a8c99f5b939a9e_Ranger_Run_2.png",
+          "name": "Ranger_Run_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/ce07704b656e4d28e6c5c96e9edafb349d51fd5a53c662ab7a3f495a9db40cd2_Ranger_Run_3.png",
+          "name": "Ranger_Run_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/e4f1982e62559b3516185091a032b08cb2a8fc9054562b0c60b06ea55c4e5b11_Ranger_Run_4.png",
+          "name": "Ranger_Run_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Stab.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Stab.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3098a3fca734e6fc9bf371df7986e7be3965eb93b7defc6ff3793f5d8220ac2e_Ranger_Stab.png",
+          "name": "Ranger_Stab.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/4bb9101de0eb11667b88566d6eaa8b50e060757e37695e75f6ee398fbde72733_Ranger_Strafe 1_1.png",
+          "name": "Ranger_Strafe 1_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/88f938dff6d169233fbf463b3cadf781ccf6547428a4a3b42b8a4ba879211aa9_Ranger_Strafe 1_2.png",
+          "name": "Ranger_Strafe 1_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/4bb9101de0eb11667b88566d6eaa8b50e060757e37695e75f6ee398fbde72733_Ranger_Strafe 1_3.png",
+          "name": "Ranger_Strafe 1_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/88f938dff6d169233fbf463b3cadf781ccf6547428a4a3b42b8a4ba879211aa9_Ranger_Strafe 1_4.png",
+          "name": "Ranger_Strafe 1_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/19e5ea14f798b7abedc236caafe940102bde66dc0db4c174d75a188645a67714_Ranger_Strafe 2_1.png",
+          "name": "Ranger_Strafe 2_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/40d6c916dc46a6d23eb3b80708c7098321a0294833d346a9d3de96bb5f1e33d7_Ranger_Strafe 2_2.png",
+          "name": "Ranger_Strafe 2_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/19e5ea14f798b7abedc236caafe940102bde66dc0db4c174d75a188645a67714_Ranger_Strafe 2_3.png",
+          "name": "Ranger_Strafe 2_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Strafe 2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Strafe 2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/40d6c916dc46a6d23eb3b80708c7098321a0294833d346a9d3de96bb5f1e33d7_Ranger_Strafe 2_4.png",
+          "name": "Ranger_Strafe 2_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/8d8cc3f18ed549a7e4806dccc4695da81f3637482279fc8e15b02dcc0ad4b67c_Ranger_Walk 1_1.png",
+          "name": "Ranger_Walk 1_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/d6f81239365519e8020bb56480eab625a5174b756a279a2064e3589e9639b79f_Ranger_Walk 1_2.png",
+          "name": "Ranger_Walk 1_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/dcce2557027d5eae99c984890f5a3601b192640510f2f24e2b0c59281a3a63e0_Ranger_Walk 1_3.png",
+          "name": "Ranger_Walk 1_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/d6f81239365519e8020bb56480eab625a5174b756a279a2064e3589e9639b79f_Ranger_Walk 1_4.png",
+          "name": "Ranger_Walk 1_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/40d6c916dc46a6d23eb3b80708c7098321a0294833d346a9d3de96bb5f1e33d7_Ranger_Walk 2_1.png",
+          "name": "Ranger_Walk 2_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/05a144164c7682c8da31e3d4dac04a527788bc9383b859da574f16b8f06a9e0a_Ranger_Walk 2_2.png",
+          "name": "Ranger_Walk 2_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/40d6c916dc46a6d23eb3b80708c7098321a0294833d346a9d3de96bb5f1e33d7_Ranger_Walk 2_3.png",
+          "name": "Ranger_Walk 2_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/840318b8232d1bf159c13b1f63866fd2d7115b3d5647f0b11cd42954b14c6651_Ranger_Walk 2_4.png",
+          "name": "Ranger_Walk 2_4.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 3_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 3_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/2b8d8c07171fef32c65e09eabbd740dd07b9510bcc018efb29164a8e02f93e4a_Ranger_Walk 3_1.png",
+          "name": "Ranger_Walk 3_1.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 3_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 3_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/88f938dff6d169233fbf463b3cadf781ccf6547428a4a3b42b8a4ba879211aa9_Ranger_Walk 3_2.png",
+          "name": "Ranger_Walk 3_2.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 3_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/dc8f7fd51f968f1e22646d93c0323445f0b2f3754f1717ae9afd25a5a56e64e5_Ranger_Walk 3_3.png",
+          "name": "Ranger_Walk 3_3.png"
+        }
+      },
+      {
+        "file": "assets/Ranger_Walk 3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ranger_Walk 3_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Brawler Series/NES/3cd35675bc1dcd5f1387ce43ff970bb58e28fbb5fe4e448c030aa5636db1367e_Ranger_Walk 3_4.png",
+          "name": "Ranger_Walk 3_4.png"
+        }
+      },
+      {
+        "file": "assets/Monster.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monster.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Wesxdz Game Assets/skullcup/Characters/efcc4c7bd5d61af14041ce090f9facb0991e5fe42471ed980a92fd8322d97cc0_Monster.png",
+          "name": "Monster.png"
+        }
+      },
+      {
+        "file": "assets/46 - More Titles Than Songs.aac",
+        "kind": "audio",
+        "metadata": "{\"localFilePath\":\"assets/46 - More Titles Than Songs.aac\",\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Random 1\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.19,\\\"sustainPunch\\\":80,\\\"decay\\\":2.34,\\\"tremoloDepth\\\":36,\\\"tremoloFrequency\\\":11,\\\"frequency\\\":500,\\\"frequencySweep\\\":0,\\\"frequencyDeltaSweep\\\":2200,\\\"repeatFrequency\\\":30.3,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"sine\\\",\\\"interpolateNoise\\\":false,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":50,\\\"squareDutySweep\\\":0,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":8600,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":9700,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"19cee65230577e509cf6508317e0db957ba1fa10d781e768d3fda3c94a6e41ff_46 - More Titles Than Songs.aac\"}}",
+        "name": "19cee65230577e509cf6508317e0db957ba1fa10d781e768d3fda3c94a6e41ff_46 - More Titles Than Songs.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/19cee65230577e509cf6508317e0db957ba1fa10d781e768d3fda3c94a6e41ff_46 - More Titles Than Songs.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/49 - the story so far.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2f96dd46207ff9cde01f8ad03176eefa12ed06d00624faff700e6ae49e80c018_49 - the story so far.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/2f96dd46207ff9cde01f8ad03176eefa12ed06d00624faff700e6ae49e80c018_49 - the story so far.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Credits.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Credits.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Orange Bubble Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c7108719eeb51696e6b9bcca1280e5403f7867491f3b02101f759d0e55b112fe_Orange Bubble Button_Hovered.png",
+          "name": "Orange Bubble Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Orange Bubble Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c97e04689076f4c138d10a0dde322d982b332595bce0fe8007ce14bb7a22af21_Orange Bubble Button_Idle.png",
+          "name": "Orange Bubble Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Orange Bubble Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4c35e1cf340a1121bb63e0d0ef834876be8b9427c5a30bafb2e043640d27aab4_Orange Bubble Button_Pressed.png",
+          "name": "Orange Bubble Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Poppins-Medium.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Poppins-Medium.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+          "name": "Poppins-Medium.ttf"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/7e20f653a7c4e574f7db28716cce6e178ae755fe75bb22c8d1a1038a77fc4126_Male Character 3_Walking Down_1.png",
+          "name": "Male Character 3_Walking Down_1.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/0cec6752c330ff8c9bd320639c2508e59d5a3eb81c4f5ebfc410be7396fb7655_Male Character 3_Walking Down_2.png",
+          "name": "Male Character 3_Walking Down_2.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/838ce430bdc97fa24ac39fb29cbc43b1e33b11865ebb4021a05c871c20a55f43_Male Character 3_Walking Down_3.png",
+          "name": "Male Character 3_Walking Down_3.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/fc342e8e5b5fd46b6afd2123bfbec73e3393151f00e9eda8a6789e5fbeae091c_Male Character 3_Walking Left_1.png",
+          "name": "Male Character 3_Walking Left_1.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/014c1819f43a9d54af7749ef89238dfd563765e1b29ab77f66c35e40831a9d3f_Male Character 3_Walking Left_2.png",
+          "name": "Male Character 3_Walking Left_2.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/dd5e40b6c37aa141d48e59211da176c4e191a576018a61b2ef49939fd913b096_Male Character 3_Walking Left_3.png",
+          "name": "Male Character 3_Walking Left_3.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/84b7fbfb9342d90b2fd8e4706d3985a32236aeff226b2620db600226715ac1b6_Male Character 3_Walking Right_1.png",
+          "name": "Male Character 3_Walking Right_1.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/1e90b9593f7b7bb939ff4b1ed8b45be841ca7fc155450ffaa0eaa4bd8a471c64_Male Character 3_Walking Right_2.png",
+          "name": "Male Character 3_Walking Right_2.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/09f477e2394a162bedf89ff3d2e29625d642da2318422d298b7244b0f4f6e105_Male Character 3_Walking Right_3.png",
+          "name": "Male Character 3_Walking Right_3.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/c7ab802c80650c1a67b4d5eec3cde16cbaea02f579ab8b1c84e86c34fa648fbb_Male Character 3_Walking Up_1.png",
+          "name": "Male Character 3_Walking Up_1.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/c74facd8250e754f1440318d7924033e8cb16b64a1f8202e9e3a55b14a1fa6a3_Male Character 3_Walking Up_2.png",
+          "name": "Male Character 3_Walking Up_2.png"
+        }
+      },
+      {
+        "file": "assets/Male Character 3_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 3_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/e23bdcc235b38701deec9a23c78dd5cfedc31dbfda49fa159889c19064a9f60d_Male Character 3_Walking Up_3.png",
+          "name": "Male Character 3_Walking Up_3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/4aff911b77a74ec85d226e2b355e36132cc4c098f51ebdb68829f1cdf6114296_tiled_Brick2.png",
+          "name": "tiled_Brick2.png"
+        }
+      },
+      {
+        "file": "assets/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_black space.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "name": "tiled_black space.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/2f5c03afe2af48a4ac33ad3dbf13565ffe260b9e539e390280f963d06bbd9587_tiled_Grass4.png",
+          "name": "tiled_Grass4.png"
+        }
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Green house 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green house 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/cab7fa16796b24f801e7b739fc7dc610a93ddb7465c42e581fa4a01c2f334f40_Green house 1.png",
+          "name": "Green house 1.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/d93e96c95c0af7aff10c7b732eec3aea5cf70a3d5a018c225b348c08656da5bb_Female Character 10_Walking Down_1.png",
+          "name": "Female Character 10_Walking Down_1.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/e9b6bf31e32868f63c5ec35ff784d77dbbc94956e09fa7a8f0987151d1664004_Female Character 10_Walking Down_2.png",
+          "name": "Female Character 10_Walking Down_2.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/f29ca7a940e6c9991ec4c33beebf88a5769a78b55dd7386641d92650e543aec2_Female Character 10_Walking Down_3.png",
+          "name": "Female Character 10_Walking Down_3.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/b04da2b288dcc8c4342ac53b030a6a81991f770b1da6930646b911d862820371_Female Character 10_Walking Left_1.png",
+          "name": "Female Character 10_Walking Left_1.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/84b423ec9195ec07488b15b81b56fc6583bb73f2a3bca76cf09dedb52a9f2095_Female Character 10_Walking Left_2.png",
+          "name": "Female Character 10_Walking Left_2.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/3b5b24779961bedf3987adde7b439e63a9c63594cf6a647016a5d0214709a9b2_Female Character 10_Walking Left_3.png",
+          "name": "Female Character 10_Walking Left_3.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/dcfff3833cc7689d058c7498e59f65bb10f4262f0bfa98398fb77e9b8e6ecf0e_Female Character 10_Walking Right_1.png",
+          "name": "Female Character 10_Walking Right_1.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/29b89233478b86b7d25c635822f9c5be1f439d70d067cec3438f448143c4c4a2_Female Character 10_Walking Right_2.png",
+          "name": "Female Character 10_Walking Right_2.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/5f8ba0de7eb225972233084c351ba46724801c4acc45824fc0bd28b521e0f2b7_Female Character 10_Walking Right_3.png",
+          "name": "Female Character 10_Walking Right_3.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/c63036457d95f521b78e3d0494a1130b513d5f5e9372cbbc56a2deb306e69417_Female Character 10_Walking Up_1.png",
+          "name": "Female Character 10_Walking Up_1.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/c90976d4585b53402c31b9f9310dd3444ed9e81acc72e84236807dec86efe345_Female Character 10_Walking Up_2.png",
+          "name": "Female Character 10_Walking Up_2.png"
+        }
+      },
+      {
+        "file": "assets/Female Character 10_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 10_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/c510054d887b265df5f62fedcf3bf5f3f08fbf9da662531a76a0f81bb8dc89aa_Female Character 10_Walking Up_3.png",
+          "name": "Female Character 10_Walking Up_3.png"
+        }
+      },
+      {
+        "file": "Credits (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Credits (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Credits (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Credits (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Our family is growing..png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Our family is growing..png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/White Sleek Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
+          "name": "White Sleek Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
+          "name": "White Sleek Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
+          "name": "White Sleek Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/WorkSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "WorkSans-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+          "name": "WorkSans-Regular.ttf"
+        }
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       }
     ],
 >>>>>>> Stashed changes
@@ -658,7 +2159,18 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "TimeElapsed",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "DistanceLeft",
+      "type": "number",
+      "value": 20000
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -667,6 +2179,37 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/start-screen"
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/pizza-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/credits"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/losing-screen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/winning-screen"
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     }
   ],
   "externalEvents": [],
@@ -685,6 +2228,33 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/platformercharacteranimator"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/ysort"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/spritemultitouchjoystick"
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     }
   ],
 >>>>>>> Stashed changes
