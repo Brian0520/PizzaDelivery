@@ -649,7 +649,10 @@
           "name": "Roboto-Regular.ttf"
         }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
       },
       {
         "file": "../../../Downloads/city background.webp",
@@ -2136,6 +2139,9 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
           "name": "WorkSans-Regular.ttf"
         }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       }
     ],
@@ -2168,7 +2174,10 @@
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/start-screen"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -2185,6 +2194,9 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/winning-screen"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -2205,7 +2217,10 @@
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -2218,6 +2233,9 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/spritemultitouchjoystick"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],

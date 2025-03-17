@@ -2,11 +2,14 @@
   "b": 209,
   "disableInputWhenNotFocused": true,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
   "mangledName": "Untitled_32scene",
   "name": "Untitled scene",
   "r": 209,
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   "mangledName": "Gameplay",
@@ -28,6 +31,7 @@
     "gridAlpha": 0.8,
     "snap": false,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
     "zoomFactor": 0.546875,
     "windowMask": false
@@ -42,6 +46,9 @@
   "events": [],
 =======
     "zoomFactor": 0.5117784035210194,
+=======
+    "zoomFactor": 0.37971210019479473,
+>>>>>>> Stashed changes
 =======
     "zoomFactor": 0.37971210019479473,
 >>>>>>> Stashed changes
@@ -473,8 +480,13 @@
       "persistentUuid": "a4d00aff-da31-4dfa-8c90-f5ab51af4e16",
       "width": 75,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "x": 545,
       "y": 588,
+=======
+      "x": 386,
+      "y": 589,
+>>>>>>> Stashed changes
 =======
       "x": 386,
       "y": 589,
@@ -563,7 +575,11 @@
       "persistentUuid": "1c03a97b-2e97-4869-a11a-e370cdd8880c",
       "width": 2441,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "x": -40,
+=======
+      "x": -51,
+>>>>>>> Stashed changes
 =======
       "x": -51,
 >>>>>>> Stashed changes
@@ -573,7 +589,10 @@
       "stringProperties": [],
       "initialVariables": []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "angle": 0,
@@ -654,6 +673,9 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -2148,7 +2170,10 @@
       "effects": [],
       "behaviors": []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "assetStoreId": "",
@@ -2365,6 +2390,9 @@
         "characterSize": 20,
         "color": "255;255;255"
       }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -2409,7 +2437,10 @@
       {
         "objectName": "Backdrop"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
       },
       {
         "objectName": "Speed"
@@ -2425,6 +2456,9 @@
       },
       {
         "objectName": "Controls"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       }
     ]
@@ -2840,7 +2874,10 @@
             "CarRed.X()*2"
           ]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         },
         {
           "type": {
@@ -2891,6 +2928,9 @@
             "=",
             "CarRed.X()-(CarRed.Width())*2+120"
           ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         }
       ]
@@ -3283,7 +3323,10 @@
             "",
             "\"Gameplay\"",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
             ""
           ]
         }
@@ -3426,6 +3469,9 @@
           "parameters": [
             "",
             "\"Pizza Scene\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             ""
           ]
