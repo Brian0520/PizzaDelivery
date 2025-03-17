@@ -3,11 +3,14 @@
   "disableInputWhenNotFocused": true,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
   "mangledName": "Untitled_32scene",
   "name": "Untitled scene",
   "r": 209,
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -32,6 +35,7 @@
     "snap": false,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:layouts/untitled-scene.json
     "zoomFactor": 0.546875,
     "windowMask": false
@@ -46,6 +50,9 @@
   "events": [],
 =======
     "zoomFactor": 0.5117784035210194,
+=======
+    "zoomFactor": 0.37971210019479473,
+>>>>>>> Stashed changes
 =======
     "zoomFactor": 0.37971210019479473,
 >>>>>>> Stashed changes
@@ -481,8 +488,13 @@
       "width": 75,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "x": 545,
       "y": 588,
+=======
+      "x": 386,
+      "y": 589,
+>>>>>>> Stashed changes
 =======
       "x": 386,
       "y": 589,
@@ -576,7 +588,11 @@
       "width": 2441,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "x": -40,
+=======
+      "x": -51,
+>>>>>>> Stashed changes
 =======
       "x": -51,
 >>>>>>> Stashed changes
@@ -590,7 +606,10 @@
       "initialVariables": []
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     },
@@ -674,6 +693,9 @@
       "stringProperties": [],
       "initialVariables": []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2171,7 +2193,10 @@
       "behaviors": []
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     },
@@ -2391,6 +2416,9 @@
         "color": "255;255;255"
       }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2438,7 +2466,10 @@
         "objectName": "Backdrop"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       },
@@ -2457,6 +2488,9 @@
       {
         "objectName": "Controls"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2875,7 +2909,10 @@
           ]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         },
@@ -2929,6 +2966,9 @@
             "CarRed.X()-(CarRed.Width())*2+120"
           ]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3324,7 +3364,10 @@
             "\"Gameplay\"",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
             ""
@@ -3470,6 +3513,9 @@
             "",
             "\"Pizza Scene\"",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
